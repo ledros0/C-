@@ -1,0 +1,62 @@
+/*Console.WriteLine("Diga seu primeiro nome");
+
+string nome = Console.ReadLine();
+
+Console.WriteLine("Diga seu sobrenome");
+
+string sobrenome = Console.ReadLine();
+
+Console.WriteLine("Diga sua idade");
+
+string idade = Console.ReadLine();
+
+Console.WriteLine("Diga seu peso");
+
+string peso = Console.ReadLine();
+
+Console.WriteLine("Diga sua altura");
+
+string altura = Console.ReadLine();
+
+double alturaConvertida = Convert.ToDouble(altura);
+double pesoConvertido = Convert.ToDouble(peso);
+
+
+double imc = pesoConvertido / (alturaConvertida * 2 );
+Console.WriteLine($"Você é {nome} {sobrenome}, tem {idade} anos, seu imc é de: {imc}");
+
+Console.WriteLine("Olá {0} {1}, seja bem vindo(a)!", nome, sobrenome); // 
+Console.WriteLine($"Olá {nome} {sobrenome}, seja bem vindo(a)!"); //template
+Console.WriteLine("Olá " + nome + " " + sobrenome + ", " + "seja bem vindo(a)!"); //concatenação  
+*/
+
+Random numeroPseudoAleatório = new Random();
+
+/*for (int i = 0; i < 2; i++)
+{
+    int numeroSorteado = numeroPseudoAleatório.Next(0, 100);
+    Console.WriteLine($"{numeroSorteado}");
+}
+*/
+
+int primeiroNumero = numeroPseudoAleatório.Next(0, 100);
+int segundoNumero = numeroPseudoAleatório.Next(0, 100);
+
+if (segundoNumero > primeiroNumero)
+{
+    Console.WriteLine($"primeiro numero:{primeiroNumero}  segundo numero: {segundoNumero}");
+    int terceiroNumero = numeroPseudoAleatório.Next(0, 100);
+
+    if(terceiroNumero < segundoNumero && terceiroNumero > primeiroNumero)
+    {
+        Console.WriteLine($"Aqui está a ordem que foi dada aos numeros:{primeiroNumero} {terceiroNumero} {segundoNumero}");
+    }
+    else
+    {
+        Console.WriteLine($"Os números {primeiroNumero} e {segundoNumero} foram certos, mas o {terceiroNumero} não entra no meio deles pelo valor sorteado");
+    }
+}
+else
+{
+    Console.WriteLine("DEU ERRO");
+}
