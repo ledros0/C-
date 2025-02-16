@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\bin\Debug\net9.0\Calculo de média em array.exe
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\bin\Debug\net9.0\Calculo de média em array.deps.json
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\bin\Debug\net9.0\Calculo de média em array.runtimeconfig.json
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\bin\Debug\net9.0\Calculo de média em array.dll
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\bin\Debug\net9.0\Calculo de média em array.pdb
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.AssemblyInfo.cs
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.dll
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\refint\Calculo de média em array.dll
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.pdb
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\Calculo de média em array.genruntimeconfig.cache
+C:\Users\win\source\C#\Calculo de média em array\Calculo de média em array\obj\Debug\net9.0\ref\Calculo de média em array.dll
