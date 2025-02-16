@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\bin\Debug\net9.0\Calcular média por lista.exe
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\bin\Debug\net9.0\Calcular média por lista.deps.json
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\bin\Debug\net9.0\Calcular média por lista.runtimeconfig.json
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\bin\Debug\net9.0\Calcular média por lista.dll
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\bin\Debug\net9.0\Calcular média por lista.pdb
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.AssemblyInfo.cs
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.dll
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\refint\Calcular média por lista.dll
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.pdb
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\Calcular média por lista.genruntimeconfig.cache
+C:\Users\win\source\C#\Calcular média por lista\Calcular média por lista\obj\Debug\net9.0\ref\Calcular média por lista.dll
