@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Lista de animais\Lista de animais\bin\Debug\net9.0\Lista de animais.exe
+C:\Users\win\source\C#\Lista de animais\Lista de animais\bin\Debug\net9.0\Lista de animais.deps.json
+C:\Users\win\source\C#\Lista de animais\Lista de animais\bin\Debug\net9.0\Lista de animais.runtimeconfig.json
+C:\Users\win\source\C#\Lista de animais\Lista de animais\bin\Debug\net9.0\Lista de animais.dll
+C:\Users\win\source\C#\Lista de animais\Lista de animais\bin\Debug\net9.0\Lista de animais.pdb
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.AssemblyInfo.cs
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.dll
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\refint\Lista de animais.dll
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.pdb
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\Lista de animais.genruntimeconfig.cache
+C:\Users\win\source\C#\Lista de animais\Lista de animais\obj\Debug\net9.0\ref\Lista de animais.dll
