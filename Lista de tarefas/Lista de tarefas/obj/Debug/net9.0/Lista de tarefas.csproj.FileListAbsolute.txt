@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.AssemblyInfo.cs
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\bin\Debug\net9.0\Lista de tarefas.exe
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\bin\Debug\net9.0\Lista de tarefas.deps.json
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\bin\Debug\net9.0\Lista de tarefas.runtimeconfig.json
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\bin\Debug\net9.0\Lista de tarefas.dll
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\bin\Debug\net9.0\Lista de tarefas.pdb
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.dll
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\refint\Lista de tarefas.dll
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.pdb
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\Lista de tarefas.genruntimeconfig.cache
+C:\Users\win\source\C#\Lista de tarefas\Lista de tarefas\obj\Debug\net9.0\ref\Lista de tarefas.dll
