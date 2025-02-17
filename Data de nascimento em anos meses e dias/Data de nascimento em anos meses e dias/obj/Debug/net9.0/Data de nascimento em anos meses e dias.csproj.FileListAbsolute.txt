@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\bin\Debug\net9.0\Data de nascimento em anos meses e dias.exe
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\bin\Debug\net9.0\Data de nascimento em anos meses e dias.deps.json
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\bin\Debug\net9.0\Data de nascimento em anos meses e dias.runtimeconfig.json
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\bin\Debug\net9.0\Data de nascimento em anos meses e dias.dll
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\bin\Debug\net9.0\Data de nascimento em anos meses e dias.pdb
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.AssemblyInfo.cs
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.dll
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\refint\Data de nascimento em anos meses e dias.dll
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.pdb
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\Data de nascimento em anos meses e dias.genruntimeconfig.cache
+C:\Users\win\source\C#\Data de nascimento em anos meses e dias\Data de nascimento em anos meses e dias\obj\Debug\net9.0\ref\Data de nascimento em anos meses e dias.dll
