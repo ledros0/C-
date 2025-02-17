@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\bin\Debug\net9.0\Caixa de super mercado.exe
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\bin\Debug\net9.0\Caixa de super mercado.deps.json
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\bin\Debug\net9.0\Caixa de super mercado.runtimeconfig.json
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\bin\Debug\net9.0\Caixa de super mercado.dll
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\bin\Debug\net9.0\Caixa de super mercado.pdb
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.AssemblyInfo.cs
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.dll
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\refint\Caixa de super mercado.dll
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.pdb
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\Caixa de super mercado.genruntimeconfig.cache
+C:\Users\win\source\C#\Caixa de super mercado\Caixa de super mercado\obj\Debug\net9.0\ref\Caixa de super mercado.dll
