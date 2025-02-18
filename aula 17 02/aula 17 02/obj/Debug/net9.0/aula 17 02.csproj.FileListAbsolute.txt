@@ -1,0 +1,14 @@
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\bin\Debug\net9.0\aula 17 02.exe
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\bin\Debug\net9.0\aula 17 02.deps.json
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\bin\Debug\net9.0\aula 17 02.runtimeconfig.json
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\bin\Debug\net9.0\aula 17 02.dll
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\bin\Debug\net9.0\aula 17 02.pdb
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.AssemblyInfoInputs.cache
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.AssemblyInfo.cs
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.csproj.CoreCompileInputs.cache
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.dll
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\refint\aula 17 02.dll
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.pdb
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\aula 17 02.genruntimeconfig.cache
+C:\Users\mateus.bsilveira\source\repos\aula 17 02\aula 17 02\obj\Debug\net9.0\ref\aula 17 02.dll
