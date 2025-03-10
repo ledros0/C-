@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cadastrar aluno em disciplina/1.0.0": {
+        "runtime": {
+          "Cadastrar aluno em disciplina.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cadastrar aluno em disciplina/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

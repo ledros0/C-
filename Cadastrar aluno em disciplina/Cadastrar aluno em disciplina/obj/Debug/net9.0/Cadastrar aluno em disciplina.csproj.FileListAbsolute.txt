@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\bin\Debug\net9.0\Cadastrar aluno em disciplina.exe
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\bin\Debug\net9.0\Cadastrar aluno em disciplina.deps.json
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\bin\Debug\net9.0\Cadastrar aluno em disciplina.runtimeconfig.json
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\bin\Debug\net9.0\Cadastrar aluno em disciplina.dll
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\bin\Debug\net9.0\Cadastrar aluno em disciplina.pdb
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.AssemblyInfo.cs
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.dll
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\refint\Cadastrar aluno em disciplina.dll
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.pdb
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\Cadastrar aluno em disciplina.genruntimeconfig.cache
+C:\Users\win\source\C#\Cadastrar aluno em disciplina\Cadastrar aluno em disciplina\obj\Debug\net9.0\ref\Cadastrar aluno em disciplina.dll
