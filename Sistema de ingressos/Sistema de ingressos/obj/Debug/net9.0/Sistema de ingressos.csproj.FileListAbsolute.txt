@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.AssemblyInfo.cs
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\bin\Debug\net9.0\Sistema de ingressos.exe
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\bin\Debug\net9.0\Sistema de ingressos.deps.json
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\bin\Debug\net9.0\Sistema de ingressos.runtimeconfig.json
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\bin\Debug\net9.0\Sistema de ingressos.dll
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\bin\Debug\net9.0\Sistema de ingressos.pdb
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.dll
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\refint\Sistema de ingressos.dll
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.pdb
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\Sistema de ingressos.genruntimeconfig.cache
+C:\Users\win\source\C#\Sistema de ingressos\Sistema de ingressos\obj\Debug\net9.0\ref\Sistema de ingressos.dll
