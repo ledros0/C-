@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\bin\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.exe
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\bin\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.deps.json
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\bin\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.runtimeconfig.json
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\bin\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.dll
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\bin\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.pdb
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.AssemblyInfo.cs
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.dll
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\refint\Cálculo de área de Triângulo, Quadrado e  Círculo.dll
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.pdb
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\Cálculo de área de Triângulo, Quadrado e  Círculo.genruntimeconfig.cache
+C:\Users\win\source\C#\Cálculo de área de Triângulo, Quadrado e  Círculo\Cálculo de área de Triângulo, Quadrado e  Círculo\obj\Debug\net9.0\ref\Cálculo de área de Triângulo, Quadrado e  Círculo.dll
