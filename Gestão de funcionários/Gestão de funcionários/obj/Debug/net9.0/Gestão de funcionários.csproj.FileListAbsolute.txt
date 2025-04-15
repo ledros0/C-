@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\bin\Debug\net9.0\Gestão de funcionários.exe
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\bin\Debug\net9.0\Gestão de funcionários.deps.json
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\bin\Debug\net9.0\Gestão de funcionários.runtimeconfig.json
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\bin\Debug\net9.0\Gestão de funcionários.dll
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\bin\Debug\net9.0\Gestão de funcionários.pdb
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.AssemblyInfo.cs
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.dll
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\refint\Gestão de funcionários.dll
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.pdb
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\Gestão de funcionários.genruntimeconfig.cache
+C:\Users\win\source\C#\Gestão de funcionários\Gestão de funcionários\obj\Debug\net9.0\ref\Gestão de funcionários.dll
