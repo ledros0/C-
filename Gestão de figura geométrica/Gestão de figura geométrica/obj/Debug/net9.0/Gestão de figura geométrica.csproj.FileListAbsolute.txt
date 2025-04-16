@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\bin\Debug\net9.0\Gestão de figura geométrica.exe
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\bin\Debug\net9.0\Gestão de figura geométrica.deps.json
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\bin\Debug\net9.0\Gestão de figura geométrica.runtimeconfig.json
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\bin\Debug\net9.0\Gestão de figura geométrica.dll
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\bin\Debug\net9.0\Gestão de figura geométrica.pdb
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.AssemblyInfo.cs
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.dll
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\refint\Gestão de figura geométrica.dll
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.pdb
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\Gestão de figura geométrica.genruntimeconfig.cache
+C:\Users\win\source\C#\Gestão de figura geométrica\Gestão de figura geométrica\obj\Debug\net9.0\ref\Gestão de figura geométrica.dll
