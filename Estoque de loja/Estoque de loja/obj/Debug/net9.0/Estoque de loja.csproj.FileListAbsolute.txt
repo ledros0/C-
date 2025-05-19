@@ -1,0 +1,14 @@
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.AssemblyInfoInputs.cache
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.AssemblyInfo.cs
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.csproj.CoreCompileInputs.cache
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\bin\Debug\net9.0\Estoque de loja.exe
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\bin\Debug\net9.0\Estoque de loja.deps.json
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\bin\Debug\net9.0\Estoque de loja.runtimeconfig.json
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\bin\Debug\net9.0\Estoque de loja.dll
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\bin\Debug\net9.0\Estoque de loja.pdb
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.dll
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\refint\Estoque de loja.dll
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.pdb
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\Estoque de loja.genruntimeconfig.cache
+C:\Users\win\source\C#\Estoque de loja\Estoque de loja\obj\Debug\net9.0\ref\Estoque de loja.dll
